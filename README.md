@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full-Stack Engineer, Focusing on React, Next.js, React Native, and Node.js.<br>👯 I’m looking to collaborate on exciting web and Mobile App Projects involving the MERN Stack.<br>🤝 I’m looking for help with exploring Advanced Backend Architectures and Scaling Applications.<br>🌱 I’m getting expertise in DevOps, Docker, and Amazon Web Services (AWS).<br>💬 Ask me about anything related to JavaScript, React, or Backend Development with Node.js!<br>⚡ Fun fact: I started off in Pre-Medical but fell in Love with Software Engineering and Problem-Solving.
+🔭 I’m currently working as Full-Stack Engineer, Focusing on React, Next.js, React Native, and Node.js.<br>👯 I’m looking to collaborate on exciting Web and Mobile App Projects involving the MERN Stack.<br>🤝 I’m looking for help with exploring Advanced Backend Architectures and Scaling Applications.<br>🌱 I’m getting expertise in DevOps, Docker, and Amazon Web Services (AWS).<br>💬 Ask me about anything related to JavaScript, React, or Backend Development with Node.js!<br>⚡ Fun fact: I started off in Pre-Medical but fell in Love with Software Engineering and Problem-Solving.
 
 
 ## 🌐 Socials:
